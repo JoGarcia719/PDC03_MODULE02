@@ -1,0 +1,17 @@
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\bin\Debug\netstandard2.0\PDC03_MODULE02.deps.json
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\bin\Debug\netstandard2.0\PDC03_MODULE02.dll
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\bin\Debug\netstandard2.0\PDC03_MODULE02.pdb
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.csproj.AssemblyReference.cache
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\activity1.xaml.g.cs
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\activity2.xaml.g.cs
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.AssemblyInfoInputs.cache
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.AssemblyInfo.cs
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.csproj.CoreCompileInputs.cache
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\XamlC.stamp
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.dll
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\refint\PDC03_MODULE02.dll
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\PDC03_MODULE02.pdb
+C:\xampp_new\htdocs\PDC03_MODULE02\PDC03_MODULE02\PDC03_MODULE02\obj\Debug\netstandard2.0\ref\PDC03_MODULE02.dll
